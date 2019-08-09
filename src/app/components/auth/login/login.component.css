@@ -1,0 +1,32 @@
+.body {
+  background-color: #F48637;
+}
+
+.container {
+  background-color: #F48637;
+  width: 50%;
+}
+
+form {
+  margin-top: 50px;
+}
+
+.form-label-group {
+  margin: 30px;
+}
+
+.btn-block {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.checkbox {
+  margin-left: 30px;
+}
+
+.card {
+  margin-top: 80px;
+  box-shadow: 10px 10px 5px 5px grey;
+  border-radius: 10px;
+}
+
